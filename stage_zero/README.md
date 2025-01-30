@@ -1,16 +1,57 @@
-# stage_one
+# Mobile App
 
-A new Flutter project.
+## Overview
 
-## Getting Started
+This mobile application is built as part of the Mobile-Desktop Stage 0 task. It provides a simple user interface with a button linking to the GitHub repository and HNG Flutter Hire page.
 
-This project is a starting point for a Flutter application.
+## Features
 
-A few resources to get you started if this is your first Flutter project:
+- A button that redirects users to the project’s GitHub repository.
+- Links to the HNG Flutter Hire page.
+- Compatible with Android, iOS, Windows, Linux, macOS, and web platforms.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Installation & Running the App
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Prerequisites
+
+Ensure you have the required tools installed:
+
+- Flutter SDK
+- Dart SDK (comes with Flutter)
+- Android Studio/Xcode (for Android/iOS development)
+
+### Steps
+
+1. Navigate to the project directory:
+
+```sh
+cd stage_zero
+```
+
+2. Install dependencies:
+
+```sh
+flutter pub get
+```
+
+3. Run the app:
+
+```sh
+flutter run
+```
+
+## Deployment
+
+The app is deployed on [Appetize.io](https://appetize.io/) for easy testing.
+
+## Useful Links
+
+- [Project GitHub Repository](https://github.com/10-menachi/hng_12_stage_zero_mobile)
+- [Application Appetize Link](https://appetize.io/app/b_rchk6hewny3x2xodis7ozbmx2e)
+
+- HNG Hire Pages:
+  - [Flutter Developers](http://hng.tech/hire/flutter-developers)
+  - [React Native Developers](http://hng.tech/hire/react-native-developers)
+  - [Kotlin Developers](http://hng.tech/hire/kotlin-developers)
+  - [Mobile UI/UX Developers](http://hng.tech/hire/mobile-ui-ux-developers)
+  - [Android Developers](http://hng.tech/hire/android-developers)
