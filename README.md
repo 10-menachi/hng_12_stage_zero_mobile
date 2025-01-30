@@ -35,8 +35,8 @@ To get started with this repository, follow these steps:
 ### Clone the Repository
 
 ```sh
-git clone https://github.com/your-username/Mobile-Desktop-Stage-0.git
-cd Mobile-Desktop-Stage-0
+git clone [https://github.com/10-menachi/hng_12_stage_zero_mobile.git]
+cd hng_12_stage_zero_mobile
 ```
 
 ### Initial Setup
