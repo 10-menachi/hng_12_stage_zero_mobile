@@ -1,6 +1,4 @@
-# Repository Name: Mobile-Desktop Stage 0
-
-## Repository Description
+# Mobile-Desktop Stage 0
 
 This repository serves as the foundation for the Mobile-Desktop Stage 0 task in the HNG program. It contains the project files, source code, documentation, and necessary configurations for version control and collaboration.
 
